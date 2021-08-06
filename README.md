@@ -11,3 +11,5 @@ The AQI tracks ozone (smog) and particle pollution (tiny particles from ash, pow
 In more than 800 counties across the nation, air pollution levels are measured daily and ranked on a scale of 0 for perfect air all the way up to 500 for air pollution levels that pose an immediate danger to the public
 
 We are trying to analyse the trends in the AQI level of the different nations.
+
+The air pollution and meteorological parameters are PM2.5,PM10,NO,NO2,NOx,NH3,CO,SO2,O3,Benzene,Toluene,Xylene which would be useful in the calculation AQI of any region.
